@@ -1,0 +1,63 @@
+#EXTM3U name="bj-unicom-iptv"
+#EXTINF:-1,CCTV-1高清
+http://192.168.10.1:8888/rtp/239.3.1.129:8008
+#EXTINF:-1,CCTV-2高清
+http://192.168.10.1:8888/rtp/239.3.1.60:8084
+#EXTINF:-1,CCTV-3高清
+http://192.168.10.1:8888/rtp/239.3.1.172:8001
+#EXTINF:-1,CCTV-4高清
+http://192.168.10.1:8888/rtp/239.3.1.105:8092
+#EXTINF:-1,CCTV-5高清
+http://192.168.10.1:8888/rtp/239.3.1.173:8001
+#EXTINF:-1,CCTV-5+
+http://192.168.10.1:8888/rtp/239.3.1.130:8004
+#EXTINF:-1,CCTV-6高清
+http://192.168.10.1:8888/rtp/239.3.1.174:8001
+#EXTINF:-1,CCTV-7高清
+http://192.168.10.1:8888/rtp/239.3.1.61:8104
+#EXTINF:-1,CCTV-8高清
+http://192.168.10.1:8888/rtp/239.3.1.175:8001
+#EXTINF:-1,CCTV-9高清
+http://192.168.10.1:8888/rtp/239.3.1.62:8112
+#EXTINF:-1,CCTV-10高清
+http://192.168.10.1:8888/rtp/239.3.1.63:8116
+#EXTINF:-1,CCTV-11高清
+http://192.168.10.1:8888/rtp/239.3.1.152:8120
+#EXTINF:-1,CCTV-12高清
+http://192.168.10.1:8888/rtp/239.3.1.64:8124
+#EXTINF:-1,CCTV-13高清
+http://192.168.10.1:8888/rtp/239.3.1.124:8128
+#EXTINF:-1,CCTV-少儿高清
+http://192.168.10.1:8888/rtp/239.3.1.65:8132
+#EXTINF:-1,CCTV-15高清
+http://192.168.10.1:8888/rtp/239.3.1.153:8136
+#EXTINF:-1,CCTV17-高清
+http://192.168.10.1:8888/rtp/239.3.1.151:8144
+#EXTINF:-1,湖北卫视高清
+http://192.168.10.1:8888/rtp/239.3.1.138:8044
+#EXTINF:-1,深圳卫视高清
+http://192.168.10.1:8888/rtp/239.3.1.134:8020
+#EXTINF:-1,东方卫视高清
+http://192.168.10.1:8888/rtp/239.3.1.136:8032
+#EXTINF:-1,湖南卫视高清
+http://192.168.10.1:8888/rtp/239.3.1.132:8012
+#EXTINF:-1,江西卫视高清
+http://192.168.10.1:8888/rtp/239.3.1.123:8164
+#EXTINF:-1,安徽卫视高清
+http://192.168.10.1:8888/rtp/239.3.1.211:8064
+#EXTINF:-1,浙江卫视高清
+http://192.168.10.1:8888/rtp/239.3.1.137:8036
+#EXTINF:-1,江苏卫视高清
+http://192.168.10.1:8888/rtp/239.3.1.135:8028
+#EXTINF:-1,黑龙江卫视高清
+http://192.168.10.1:8888/rtp/239.3.1.133:8016
+#EXTINF:-1,东南卫视高清
+http://192.168.10.1:8888/rtp/239.3.1.156:8148
+#EXTINF:-1 tvg-id="nhkHuaYu.cn" tvg-name="nhk华语" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/NHK.png" group-title="",nhk华语 (720p)
+https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+#EXTINF:-1 tvg-id="ZhongTianXingWen.tw" tvg-name="中天新聞" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" group-title="News",中天新聞 (1080p)
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 tvg-id="ZhongShiXingWen.tw" tvg-name="中視新聞" tvg-country="TW" tvg-language="Chinese" tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_news.png" group-title="News",中視新聞 (1080p)
+http://seb.sason.top/sc/zsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="BloombergTVAsia.us" tvg-name="Bloomberg TV Asia" tvg-country="APAC" tvg-language="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Business",Bloomberg TV Asia (720p)
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
