@@ -37,12 +37,8 @@ http://192.168.10.1:8888/rtp/239.3.1.184:8001
 http://192.168.10.1:8888/rtp/239.3.1.151:8144
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
 http://r.jdshipin.com/cCCzW
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
-http://www.terrykang.cn:5678/sxg.php?id=test1_4000
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
 http://r.jdshipin.com/0Rp07
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
-http://www.terrykang.cn:5678/sxg.php?id=test2_4000
 #EXTINF:-1,北京卫视高清
 http://192.168.10.1:8888/rtp/239.3.1.241:8000
 #EXTINF:-1,东方卫视高清
