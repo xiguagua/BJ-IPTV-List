@@ -1,39 +1,39 @@
 #EXTM3U name="bj-unicom-iptv"
-#EXTINF:-1,CCTV-1高清
+#EXTINF:-1 tvg-name="CCTV-1高清",CCTV-1高清
 http://192.168.10.1:8888/rtp/239.3.1.129:8008
-#EXTINF:-1,CCTV-2高清
+#EXTINF:-1 tvg-name="CCTV-2高清",CCTV-2高清
 http://192.168.10.1:8888/rtp/239.3.1.60:8084
-#EXTINF:-1,CCTV-3高清
+#EXTINF:-1 tvg-name="CCTV-3高清",CCTV-3高清
 http://192.168.10.1:8888/rtp/239.3.1.172:8001
-#EXTINF:-1,CCTV-4高清
+#EXTINF:-1 tvg-name="CCTV-4高清",CCTV-4高清
 http://192.168.10.1:8888/rtp/239.3.1.105:8092
-#EXTINF:-1,CCTV-5高清
+#EXTINF:-1 tvg-name="CCTV-5高清",CCTV-5高清
 http://192.168.10.1:8888/rtp/239.3.1.173:8001
-#EXTINF:-1,CCTV-5+
+#EXTINF:-1 tvg-name="CCTV-5+",CCTV-5+
 http://192.168.10.1:8888/rtp/239.3.1.130:8004
-#EXTINF:-1,CCTV-6高清
+#EXTINF:-1 tvg-name="CCTV-6高清",CCTV-6高清
 http://192.168.10.1:8888/rtp/239.3.1.174:8001
-#EXTINF:-1,CCTV-7高清
+#EXTINF:-1 tvg-name="CCTV-7高清",CCTV-7高清
 http://192.168.10.1:8888/rtp/239.3.1.61:8104
-#EXTINF:-1,CCTV-8高清
+#EXTINF:-1 tvg-name="CCTV-8高清",CCTV-8高清
 http://192.168.10.1:8888/rtp/239.3.1.175:8001
-#EXTINF:-1,CCTV-9高清
+#EXTINF:-1 tvg-name="CCTV-9高清",CCTV-9高清
 http://192.168.10.1:8888/rtp/239.3.1.62:8112
-#EXTINF:-1,CCTV-10高清
+#EXTINF:-1 tvg-name="CCTV-10高清",CCTV-10高清
 http://192.168.10.1:8888/rtp/239.3.1.63:8116
-#EXTINF:-1,CCTV-11高清
+#EXTINF:-1 tvg-name="CCTV-11高清",CCTV-11高清
 http://192.168.10.1:8888/rtp/239.3.1.152:8120
-#EXTINF:-1,CCTV-12高清
+#EXTINF:-1 tvg-name="CCTV-12高清",CCTV-12高清
 http://192.168.10.1:8888/rtp/239.3.1.64:8124
-#EXTINF:-1,CCTV-13高清
+#EXTINF:-1 tvg-name="CCTV-13高清",CCTV-13高清
 http://192.168.10.1:8888/rtp/239.3.1.124:8128
-#EXTINF:-1,CCTV-少儿高清
+#EXTINF:-1 tvg-name="CCTV-少儿高清",CCTV-少儿高清
 http://192.168.10.1:8888/rtp/239.3.1.65:8132
-#EXTINF:-1,CCTV-15高清
+#EXTINF:-1 tvg-name="CCTV-15高清",CCTV-15高清
 http://192.168.10.1:8888/rtp/239.3.1.153:8136
-#EXTINF:-1,CCTV-16高清
+#EXTINF:-1 tvg-name="CCTV-16高清",CCTV-16高清
 http://192.168.10.1:8888/rtp/239.3.1.184:8001
-#EXTINF:-1,CCTV17-高清
+#EXTINF:-1 tvg-name="CCTV17-高清",CCTV17-高清
 http://192.168.10.1:8888/rtp/239.3.1.151:8144
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="http://epg.112114.eu.org/logo/凤凰卫视资讯台.png" group-title="卫视IPV4",凤凰资讯
 http://148.135.93.213:81/live.php?id=凤凰资讯
@@ -41,25 +41,25 @@ http://148.135.93.213:81/live.php?id=凤凰资讯
 http://148.135.93.213:81/live.php?id=凤凰中文
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="http://epg.112114.eu.org/logo/凤凰卫视香港台.png" group-title="卫视IPV4",凤凰香港
 http://113.64.147.87:8081/hls/38/index.m3u8
-#EXTINF:-1,北京卫视高清
+#EXTINF:-1 tvg-name="北京卫视高清",北京卫视高清
 http://192.168.10.1:8888/rtp/239.3.1.241:8000
-#EXTINF:-1,东方卫视高清
+#EXTINF:-1 tvg-name="东方卫视高清",东方卫视高清
 http://192.168.10.1:8888/rtp/239.3.1.136:8032
-#EXTINF:-1,深圳卫视高清
+#EXTINF:-1 tvg-name="深圳卫视高清",深圳卫视高清
 http://192.168.10.1:8888/rtp/239.3.1.134:8020
-#EXTINF:-1,湖北卫视高清
+#EXTINF:-1 tvg-name="湖北卫视高清",湖北卫视高清
 http://192.168.10.1:8888/rtp/239.3.1.138:8044
-#EXTINF:-1,湖南卫视高清
+#EXTINF:-1 tvg-name="湖南卫视高清",湖南卫视高清
 http://192.168.10.1:8888/rtp/239.3.1.132:8012
-#EXTINF:-1,江西卫视高清
+#EXTINF:-1 tvg-name="江西卫视高清",江西卫视高清
 http://192.168.10.1:8888/rtp/239.3.1.123:8164
-#EXTINF:-1,安徽卫视高清
+#EXTINF:-1 tvg-name="安徽卫视高清",安徽卫视高清
 http://192.168.10.1:8888/rtp/239.3.1.211:8064
-#EXTINF:-1,浙江卫视高清
+#EXTINF:-1 tvg-name="浙江卫视高清",浙江卫视高清
 http://192.168.10.1:8888/rtp/239.3.1.137:8036
-#EXTINF:-1,江苏卫视高清
+#EXTINF:-1 tvg-name="江苏卫视高清",江苏卫视高清
 http://192.168.10.1:8888/rtp/239.3.1.135:8028
-#EXTINF:-1,黑龙江卫视高清
+#EXTINF:-1 tvg-name="黑龙江卫视高清",黑龙江卫视高清
 http://192.168.10.1:8888/rtp/239.3.1.133:8016
-#EXTINF:-1,东南卫视高清
+#EXTINF:-1 tvg-name="东南卫视高清",东南卫视高清
 http://192.168.10.1:8888/rtp/239.3.1.156:8148
